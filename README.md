@@ -4,10 +4,10 @@
 
 ### CTF Sites:
 
-&nbsp;&nbsp;&nbsp;&nbsp;[picoCTF](https://www.picoctf.org/)
+&nbsp;&nbsp;[picoCTF](https://www.picoctf.org/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[TryHackMe](https://tryhackme.com/)
+&nbsp;&nbsp;[TryHackMe](https://tryhackme.com/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;[OverTheWire](https://overthewire.org/wargames/)
+&nbsp;&nbsp;[OverTheWire](https://overthewire.org/wargames/)
 
 
