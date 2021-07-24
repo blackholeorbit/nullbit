@@ -1,6 +1,6 @@
-# [Obediant Cat]
+# Obediant Cat
 
-**Category**: [General Skills]
+**Category**: General Skills
 
 ----
 
