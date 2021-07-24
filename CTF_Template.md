@@ -1,5 +1,7 @@
 # [Challenge Name]
 
+**Site**: [website]
+
 **Category**: [Category]
 
 **Author**: [Author]
