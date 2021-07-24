@@ -1,24 +1,23 @@
 # [Challenge Name]
 
 **Category**: [Category]
+**Author**: [Author]
+**OS used**: [OS used]
 
 ----
 
 ## Challenge Description
 [Challenge Description]
-## Attached files/Instructions
-* [file1]
-* [givencode.py]
-### givencode.py
+
+## Solution
+
+[solution]
+
 ```
 [given code]
 ```
 
 ----
-## Solution
-
-[solution]
-
 
 ### Flag:
 ```
