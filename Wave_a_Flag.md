@@ -1,4 +1,4 @@
-# [Wave A Flag]
+# [Wave a Flag]
 
 **Site**: [picoCTF](https://www.picoctf.org/)
 
@@ -13,7 +13,7 @@
 ## Challenge Description
 Can you invoke help flags for a tool or binary? [This program](http://www.com) has extraordinarily helpful information...
 
-## Solution
+## Solution:
 
 [solution]
 
