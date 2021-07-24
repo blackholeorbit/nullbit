@@ -61,7 +61,7 @@ AWAVI
 AUATL
 []A\A]A^A_
 Hello user! Pass me a -h to learn what I can do!
-Oh, help? I actually don't do much, but I do have this flag here: <ins>picoCTF{b1scu1ts_4nd_gr4vy_30e77291}</ins>
+Oh, help? I actually don't do much, but I do have this flag here: picoCTF{b1scu1ts_4nd_gr4vy_30e77291}
 I don't know what '%s' means! I do know what -h means though!
 ;*3$"
 GCC: (Ubuntu 7.5.0-3ubuntu1~18.04) 7.5.0
