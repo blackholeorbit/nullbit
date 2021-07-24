@@ -4,7 +4,7 @@
 
 **Category**: General Skills
 
-**Author**: Syreal
+**Author**: SYREAL
 
 **OS used**: Kali Linux
 
