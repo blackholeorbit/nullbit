@@ -1,8 +1,8 @@
 # **Tracking my CTF Progress...**
 
-   As I work my way through various challenges, I'll utilize this space to follow my progress.  
+   As I work my way through various capture the flag (CTF) scenarios, I'll utilize this space to follow my progress.
 
-###&nbsp;&nbsp;&nbsp;CTF Sites:
+### CTF Sites:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[picoCTF](https://www.picoctf.org/)
 
