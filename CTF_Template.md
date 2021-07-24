@@ -13,7 +13,7 @@
 ## Challenge Description
 [Challenge Description]
 
-## Solution
+## Solution:
 
 [solution]
 
