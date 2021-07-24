@@ -2,11 +2,11 @@
 
 **Site**: [picoCTF](https://www.picoctf.org/)
 
-**Category**: [General Skills]
+**Category**: General Skills
 
-**Author**: [SYREAL]
+**Author**: SYREAL
 
-**OS used**: [Kali Linux]
+**OS used**: Kali Linux
 
 ----
 
@@ -26,7 +26,7 @@ Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  thinc
 kali@kali:~$ cd Downloads
 ```
 
-Entering 'ls' command revealed a file called 'warm'. Since there was no extension, I used the command 'file' to gather some information about it.
+Entering the 'ls' command revealed a file called 'warm'. Since there was no extension, I used the command 'file' to gather some information about it.
 
 ```
 kali@kali:~/Downloads$ ls
@@ -35,8 +35,8 @@ kali@kali:~/Downloads$ file warm
 warm: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3aa19b2a9cc4e093d64025eab8f510679b523455, with debug_info, not stripped
 ```
 
-Looking back at the description gives a hint on the direction in which I need to head (Can you invoke help flags for a tool or binary?). Using the 'strings'
-command and piping it to less produced the flag. 
+Looking back at the description gave me a hint on the direction in which I needed to head (Can you invoke help flags for a tool or binary?). Using the 'strings'
+command and piping it to 'less' exposed the flag.
 
 ```
 kali@kali:~/Downloads$ strings warm | less
