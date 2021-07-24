@@ -13,7 +13,7 @@
 ## Challenge Description
 This file has a flag in plain sight (aka "in-the-clear"). [Download flag](http://www.com).
 
-## Solution
+## Solution:
 
 After I clicked the "Download flag" link, that downloaded the file to the default location in Kali - the 'Downloads' directory. I opened a terminal and used
 the 'pwd' (print working directory) command to figure out where I was in the file system.
