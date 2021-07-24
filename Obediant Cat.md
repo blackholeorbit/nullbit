@@ -2,11 +2,11 @@
 
 **Category**: General Skills
 
-----
-
 **Author**: Syreal
 
 **OS used**: Kali Linux
+
+----
 
 ## Challenge Description
 This file has a flag in plain sight (aka "in-the-clear"). Download flag.
