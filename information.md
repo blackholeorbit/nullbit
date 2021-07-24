@@ -19,7 +19,10 @@ Files can always be changed in a secret way. Can you find the flag? [cat.jpg](ht
 
 Clicking the link downloaded a picture of a cat:
 
-![Alt text](https://github.com/blackholeorbit/nullbit/blob/main/cat.jpg "a title")
+![kitteh!](https://github.com/blackholeorbit/nullbit/blob/main/cat.jpg "a title")
+
+At first glance it just looked like an ordinary picture, but I noticed the monitor in the background. Was there any information to gleen from that?
+
 
 ```
 [given code]
