@@ -11,7 +11,7 @@
 ----
 
 ## Challenge Description
-[Challenge Description]
+Can you invoke help flags for a tool or binary? [This program](http://www.com) has extraordinarily helpful information...
 
 ## Solution
 
