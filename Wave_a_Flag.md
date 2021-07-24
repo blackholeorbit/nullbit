@@ -1,4 +1,4 @@
-# [Wave a Flag]
+# Wave a Flag
 
 **Site**: [picoCTF](https://www.picoctf.org/)
 
