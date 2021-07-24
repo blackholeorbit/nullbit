@@ -22,7 +22,7 @@ kali@kali:~$ pwd
 ```
 
 I used the 'ls' command to list the contents of the Kali directory and then changed to that directory using the 'cd' command. Once in the Downloads directory, I typed
-'ls' again to view the contents. And there's the file I needed - named 'flag'.
+'ls' again to view the contents. And there's the file I was looking for - named 'flag'.
 ```
 kali@kali:~$ ls 
 Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  thinclient_drives
@@ -30,7 +30,7 @@ kali@kali:~$ cd Downloads
 kali@kali:~/Downloads$ ls
 flag
 ```
-I needed to open that file, so I used the 'cat' command (short for concatenate). That opened the file, revealing the flag.
+I opened that file using the 'cat' command (short for concatenate), revealing the flag.
 
 ```
 kali@kali:~/Downloads$ cat flag
