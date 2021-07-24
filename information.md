@@ -31,7 +31,8 @@ kali@kali:~$ cd Downloads
 kali@kali:~/Downloads$ ls
 cat.jpg
 kali@kali:~/Downloads$ file cat.jpg
-cat.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 1x1, segment length 16, baseline, precision 8, 2560x1598, components 3
+cat.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 1x1, segment length 16, baseline,
+precision 8, 2560x1598, components 3
 kali@kali:~/Downloads$ 
 ```
 
