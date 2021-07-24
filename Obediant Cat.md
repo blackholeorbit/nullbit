@@ -9,7 +9,7 @@
 ----
 
 ## Challenge Description
-This file has a flag in plain sight (aka "in-the-clear"). [Download flag](http://www.nowheresville.com).
+This file has a flag in plain sight (aka "in-the-clear"). [Download flag](http://www.com).
 
 ## Solution
 
