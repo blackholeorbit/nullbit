@@ -21,7 +21,7 @@ Clicking the link downloaded a picture of a cat:
 
 ![kitteh!](https://github.com/blackholeorbit/nullbit/blob/main/cat.jpg "a title")
 
-At first glance it just looked like an ordinary picture, but I noticed the monitor in the background. Was there any information to gleen from that?
+At first glance it just looked like an ordinary picture, but I noticed the monitor in the background. Was there any information to glean from that?
 
 
 ```
