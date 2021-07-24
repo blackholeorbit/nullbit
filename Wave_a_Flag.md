@@ -15,7 +15,7 @@ Can you invoke help flags for a tool or binary? [This program](http://www.com) h
 
 ## Solution:
 
-I clicked the link to download the file and then I opened a terminal, entering the 'pwd' command to list the current directory. I then typed 'ls' to list the
+I clicked the link to download the file and then opened a terminal, entering the 'pwd' command to list the current directory. I typed 'ls' to list the
 contents and 'cd' (change directory) to switch to the Downloads directory.
 
 ```
@@ -26,7 +26,7 @@ Desktop  Documents  Downloads  Music  Pictures  Public  Templates  Videos  thinc
 kali@kali:~$ cd Downloads
 ```
 
-Entering the 'ls' command revealed a file called 'warm'. Since there was no extension, I used the command 'file' to gather some information about it.
+Entering the 'ls' command revealed a file called 'warm'. Since there was no extension, I used the command 'file' to gather some information about it (binary).
 
 ```
 kali@kali:~/Downloads$ ls
