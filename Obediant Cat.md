@@ -7,13 +7,7 @@
 ## Author: Syreal
 
 ## Challenge Description
-[This file has a flag in plain sight (aka "in-the-clear"). Download flag.]
-
-## Attached files/Instructions
-
-* [file1]
-* [givencode.py]
-
+This file has a flag in plain sight (aka "in-the-clear"). Download flag.
 
 ### givencode.py
 ```
