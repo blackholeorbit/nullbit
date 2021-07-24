@@ -3,3 +3,9 @@
 ### Sites used are:
 
 &nbsp;&nbsp;&nbsp;[picoCTF](https://www.picoctf.org/)
+
+&nbsp;&nbsp;&nbsp;[TryHackMe](https://tryhackme.com/)
+
+&nbsp;&nbsp;&nbsp;[OverTheWire](https://overthewire.org/wargames/)
+
+
