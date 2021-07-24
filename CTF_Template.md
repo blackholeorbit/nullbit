@@ -1,7 +1,9 @@
 # [Challenge Name]
 
 **Category**: [Category]
+
 **Author**: [Author]
+
 **OS used**: [OS used]
 
 ----
