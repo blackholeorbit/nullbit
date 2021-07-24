@@ -32,7 +32,8 @@ Entering the 'ls' command revealed a file called 'warm'. Since there was no exte
 kali@kali:~/Downloads$ ls
 warm
 kali@kali:~/Downloads$ file warm
-warm: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3aa19b2a9cc4e093d64025eab8f510679b523455, with debug_info, not stripped
+warm: ELF 64-bit LSB pie executable, x86-64, version 1 (SYSV), dynamically linked, interpreter
+/lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=3aa19b2a9cc4e093d64025eab8f510679b523455, with debug_info, not stripped
 ```
 
 Looking back at the description gave me a hint on the direction in which I needed to head (Can you invoke help flags for a tool or binary?). Using the 'strings'
