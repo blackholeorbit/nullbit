@@ -101,7 +101,7 @@ _IO_2_1_stdin_
 _IO_marker
 :
 ```
-I used Ctrl + Z to return to the terminal.
+I used Ctrl + Z to exit from that and return to the CLI.
 
 ----
 
