@@ -32,6 +32,7 @@ Note that for brevity purposes, post connection banners won't be listed again.
 Per the request of the OTW staff, I will NOT be listing the flags/passwords in this writeup.
 
 
+
 ```
 ┌──(kali㉿kali)-[~]
 └─$ ssh bandit0@bandit.labs.overthewire.org -p 2220
