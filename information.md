@@ -71,7 +71,7 @@ Megapixels                      : 4.1
 kali@kali:~/Downloads$ 
 ```
 
-I copied the field next to 'License' and browsed to [CyberChef](https://gchq.github.io/CyberChef/). I loaded up the Magic recipe and pasted that field into the 'Input' box and clicked 'Bake'. That resulted in the capturing the flag.
+I copied the field next to 'License' and browsed to [CyberChef](https://gchq.github.io/CyberChef/). I loaded up the Magic recipe and pasted that field into the 'Input' box and clicked 'Bake'. That resulted in capturing the flag.
 
 ----
 
