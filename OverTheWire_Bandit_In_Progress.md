@@ -5,8 +5,7 @@
 **Category**: Wargame
 
 **Authors**: 
-    Steven “Steven” Van Acker
-    morla
+    Steven “Steven” Van Acker, morla
     
 **OS used**: Kali Linux
 
