@@ -127,7 +127,7 @@ irc.overthewire.org.
 
 bandit0@bandit:~$
 ```
-Note that now I'm connected, the username has changed to bandit0. I used the 'ls' command (list) and found a file named 'readme'. I wonder
+Now that I'm connected, the username has changed to bandit0. I used the 'ls' command (list) and found a file named 'readme'. I wonder
 what we can do with this?
 
 ```
@@ -156,10 +156,11 @@ This is a OverTheWire game server. More information on http://www.overthewire.or
 
 bandit1@bandit.labs.overthewire.org's password:
 ```
-I used the now familiar 'ls' command and located a file. The name was '-'. I tried using 'cat -' but that resulted in no response. I wasn't sure
-how to handle this, so I hit a search engine looking for answers. What I discovered was that since I was using '-' after cat, it was expecting
-a option. I found that using './' after cat would tell the command to look for a file by that name
-in the current director. And just like that, the password was revealed!
+I used the now familiar 'ls' command and located a file. The file name was '-'. I tried using 'cat -' but that resulted in the command just hanging.
+I wasn't sure how to handle this, so I hit a search engine looking for answers. What I discovered was that since I was using '-' after cat,
+it was expecting a option. Using './' after cat would tell the command to look for a file by that name
+in the current directory and also to not expect a option after the '-'. And just like that, the password was revealed!
+
 ```
 bandit1@bandit:~$ ls
 -
@@ -208,7 +209,7 @@ bandit2@bandit:~$ exit
 logout
 Connection to bandit.labs.overthewire.org closed.
 ```
-I copied the password for the next level and proceeded, after logging out of the current ssh session.
+I copied the password for the next level and proceeded, after logging out of the current session.
 
 ```       
 ┌──(kali㉿kali)-[~]
@@ -221,7 +222,7 @@ Pasting the password from level 2 into the prompt, I gained access to level 3. U
 'inhere'. I used the 'cd' command to move into that and ran 'ls' again. The 'inhere' directory appeared to be empty.
 
 From past experience, I knew that using the '-a' option after 'ls' would show everything, including hidden files. The '-a' option
-worked, exposing a hidden file aptly named '.hidden'. Using the 'cat' command on it let the cat out of the bag - pun intended!
+worked, exposing a file aptly named '.hidden'. Using the 'cat' command on it let the cat out of the bag - pun intended!
 
 ```
 bandit3@bandit:~$ ls
@@ -262,7 +263,7 @@ bandit4@bandit:~/inhere$
 
 ```
 Taking a look at the man pages for cat didn't point me in a helpful direction. Since I'm not too familiar with the find command
-yet, even though something told me I needed to use it, I was determined to use my friend cat. After searching through forums, I
+yet, even though something told me I needed to use it, I turned to my friend cat. After searching through forums, I
 found a post that described what a double dash meant. This instructs the cat command not to try and parse what comes after any 
 command line options, so I gave that a try.
 
