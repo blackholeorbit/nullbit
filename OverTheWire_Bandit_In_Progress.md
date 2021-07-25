@@ -287,7 +287,7 @@ bandit4@bandit:~/inhere$ cat -- -file07
 bandit4@bandit:~/inhere$ logout
 Connection to bandit.labs.overthewire.org closed.
 ```
-I'm sure this is a sloppy way of discovering the password, but it eventually worked!
+I'm sure this is a sloppy and inefficient way of discovering the password, but it worked!
 
 ----
 
