@@ -35,7 +35,7 @@ cat.jpg: JPEG image data, JFIF standard 1.02, aspect ratio, density 1x1, segment
 precision 8, 2560x1598, components 3
 kali@kali:~/Downloads$ 
 ```
-I didn't see anything that stood out there, so I ran exiftool and that resulted in something interesting. That License line looks a little weird!
+I didn't see anything that stood out there, so I ran exiftool and that resulted in something interesting. The 'License' line looked a little weird!
 
 ```
 kali@kali:~/Downloads$ exiftool cat.jpg
