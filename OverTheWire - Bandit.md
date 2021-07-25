@@ -25,6 +25,8 @@ ssh
 
 ## Solution:
 
+I opened a terminal and used the ssh protocol to connect to the site, using the information provided in the challenge description. 
+
 ```
 kali@kali:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
