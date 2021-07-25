@@ -30,7 +30,7 @@ ssh
 I fired up Kali Linux and opened a terminal, using the ssh protocol to connect to the specified server. I was greeted with the following banner.
 Note that for brevity purposes, post connection banners won't be listed again.
 
-## ==In addition, per the request of the OTW staff, I will NOT be listing the flags/passwords==.
+==In addition, per the request of the OTW staff, I will NOT be listing the flags/passwords==.
 
 
 ```
