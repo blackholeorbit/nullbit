@@ -147,7 +147,7 @@ logout
 Connection to bandit.labs.overthewire.org closed.
 ```
 I logged out of the connection so I could use the password I just grabbed and enter level 1. I used the arrow up key to show the last ssh command,
-changing the '0' to a '1'. After connecting, I entered the password from level 0 and entered.
+and altered the command - changing the '0' to a '1'. After connecting, I pasted the password from level 0 and entered.
 
 ```
 ┌──(kali㉿kali)-[~]
