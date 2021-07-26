@@ -17,8 +17,7 @@ Can you look at the data in this binary: [static](http://www.com)? This [BASH](h
 ## Solution:
 
 I fired up Kali Linux after downloading both the static binary and BASH script. I moved to the Downloads directory and ran a 'ls'
-on it to view them.
-I ran the BASH script against the binary.
+on it to view them, then ran the BASH script against the binary.
 
 ```
 kali@kali:~$ 
