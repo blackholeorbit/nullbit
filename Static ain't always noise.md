@@ -36,7 +36,8 @@ Disassembly successful! Available at: static.ltdis.x86_64.txt
 Ripping strings from binary with file offsets...
 Any strings found in static have been written to static.ltdis.strings.txt with file offset
 ```
-After that, I decided to run the 'cat' command against the static.ltdis.strings.txt file and found the flag!
+After that, I decided to use the 'cat' command against the static.ltdis.strings.txt file and
+was able to find the flag!
 
 ```
 kali@kali:~/Downloads$ ls
