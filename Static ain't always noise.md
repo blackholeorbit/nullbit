@@ -16,7 +16,7 @@ Can you look at the data in this binary: [static](http://www.com)? This [BASH](h
 
 ## Solution:
 
-I fired up Kali Linux after downloading both the static binary and BASH script. I moved to the Downloads directory and ran a 'ls'
+I fired up Kali Linux and downloaded both the static binary and BASH script. I moved to the Downloads directory and ran a 'ls'
 on it to view them, then ran the BASH script against the binary.
 
 ```
@@ -36,7 +36,7 @@ Disassembly successful! Available at: static.ltdis.x86_64.txt
 Ripping strings from binary with file offsets...
 Any strings found in static have been written to static.ltdis.strings.txt with file offset
 ```
-After that, I decided to use the 'cat' command against the static.ltdis.strings.txt file and
+After that, I decided to use the 'cat' command on the 'static.ltdis.strings.txt' file and
 was able to find the flag!
 
 ```
